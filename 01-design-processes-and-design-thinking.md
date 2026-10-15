@@ -22,11 +22,11 @@ the next useful decision.
 The course source deck presents several design processes. They overlap, but
 they answer slightly different questions:
 
-| Approach | Main emphasis | Useful when |
-|---|---|---|
-| Design Thinking | Human needs, creative problem solving, and iterative learning | The team needs to understand a problem and explore possible responses. |
-| Double Diamond | Diverging and converging across problem and solution spaces | The team needs a simple shared picture of discovery, definition, development, and delivery. |
-| Design Sprint | A short, facilitated sequence that moves from a challenge to a tested prototype | The team needs to answer a focused question quickly. |
+| Approach        | Main emphasis                                                                   | Useful when                                                                                 |
+| --------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Design Thinking | Human needs, creative problem solving, and iterative learning                   | The team needs to understand a problem and explore possible responses.                      |
+| Double Diamond  | Diverging and converging across problem and solution spaces                     | The team needs a simple shared picture of discovery, definition, development, and delivery. |
+| Design Sprint   | A short, facilitated sequence that moves from a challenge to a tested prototype | The team needs to answer a focused question quickly.                                        |
 
 These approaches are not mutually exclusive. A team may use the Double Diamond
 to explain the overall shape of a project, Design Thinking modes to choose
